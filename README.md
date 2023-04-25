@@ -1,4 +1,4 @@
-# Deepers deepcamp (under construction)
+# Deepers Deepcamp
 ![deep](https://raw.githubusercontent.com/alessiodevoto/deepers/main/images/deepers_dark.png)
 
 Welcome to the Deepcamp!
