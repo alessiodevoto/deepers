@@ -1,5 +1,5 @@
 # Deepers Deepcamp
-![deep](https://raw.githubusercontent.com/alessiodevoto/deepers/main/images/deepers_dark.png)
+![deep](https://raw.githubusercontent.com/alessiodevoto/deepers/main/images/deepers_white_back.jpg)
 
 Welcome to the Deepcamp!
 This repo contains the Colab Notebooks for the lab sessions of the Deepcamp! Have fun! 
