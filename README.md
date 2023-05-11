@@ -8,7 +8,7 @@ You can have a look at the codelabs in the `labs` directory in this repo or dire
 
 | Topic    | Colab |
 | -------- | ------- |
-| lab 1: intro to ML  | [![Open in Colab](https://colab.research.google.com/drive/1snU60wHnef9IWV76UzNujsq6XNwxhSD2?usp=sharing)    |
+| lab 1: intro to ML  | [![Open in Colab](https://colab.research.google.com/drive/1snU60wHnef9IWV76UzNujsq6XNwxhSD2?usp=sharing)]    |
 | lab 2: outliers | $80     |
 | lab 3: pytorch and neural nets    | $420    |
 | lab 4: language models and langchain | 
