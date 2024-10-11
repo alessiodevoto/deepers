@@ -14,11 +14,17 @@ You can have a look at the codelabs in the `labs` directory in this repo or dire
 - [mnist exercise](https://colab.research.google.com/drive/1oV2TdEzcc2l8_ErpH_YkHkdsDLyj6v55?usp=share_link)
 
 
-> For the 4th codelab you must have an OpenAI account and generate an [access key](https://platform.openai.com/account/api-keys).  
+> For the 4th codelab you must have an OpenAI account and generate an [access key](https://platform.openai.com/account/api-keys). 
+
 
 
 For additional info about the labs, please contact the [author](https://alessiodevoto.github.io) or visit the [Deepers official website](https://www.deepers.ai/).
 
+
+# Deepers v2
+- [lab1: intro to ML](https://colab.research.google.com/drive/1zqt1iGuhsfz3eOmFvKo7pH1j5EfECgQj?usp=drive_link)
+- [lab2: basic NLP](https://colab.research.google.com/drive/1p3emDOQAreGSYEJmWJZrQTBQ9KcRmGLE?usp=drive_link)
+- [lab3: basic CV](https://colab.research.google.com/drive/1eu11UJ-zV1ll1jGQf4O9JyH8k7W1duH2?usp=drive_link)
 
 
 
